@@ -1,4 +1,4 @@
-# ⚔️ BATTLECRAFT: Modern Warfare Evolved
+[⚔️ BATTLECRAFT: Modern Warfare Evolved](https://modrinth.com/modpack/battle-craft)
 
 ---
 
@@ -33,3 +33,4 @@ We understand that high-quality assets require high-quality performance. *Battle
 *   **Shaders:** While optional, *BattleCraft* is compatible with most performance-friendly shader packs.
 
 ---
+[MODRINTH PACK](https://modrinth.com/modpack/battle-craft)
